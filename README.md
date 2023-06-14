@@ -1,5 +1,5 @@
 
-
+If you want to run the app, you need to first open the directory in terminal and type "npm i" to install the proper node modules before entering "ng serve"
 # Angular-API-Interactive-Map
 Used Angular and the WorldBank API to create an application to show simple country information when clicked on a map
 
