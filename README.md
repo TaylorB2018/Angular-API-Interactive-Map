@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # InteractiveMap
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.7.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# Angular-API-Interactive-Map
+Used Angular and the world bank API to create an application to show simple country information when clicked on a map
+>>>>>>> 6b633806a11b5c44576b27e911832f45afba466a
