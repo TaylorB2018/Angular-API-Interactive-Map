@@ -1,0 +1,37 @@
+svg path {
+
+    cursor: pointer;
+}
+
+svg path:hover {
+    fill: blueviolet;
+}
+
+.row {
+    display: flex;
+  }
+  
+  .row .col {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    margin: 5px;
+    flex-direction: column;
+    border: 1px solid black;
+  }
+  
+  .row .col svg {
+    flex: 1;
+    margin: 5px;
+  }
+  .row .col div {
+    flex: 1;
+
+  }
+
+  
+  @media all and (max-width:400px) { /* Change this value as per your needs */
+    .row {
+      flex-direction: column
+    }
+  }
